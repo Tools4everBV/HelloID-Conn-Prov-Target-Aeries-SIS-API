@@ -1,0 +1,23 @@
+[
+    {
+      "key": "baseUri",
+      "type": "input",
+      "defaultValue": "",
+      "templateOptions": {
+        "label": "Base URI",
+        "placeholder": "https://demo.aeries.net/aeries",
+        "required": true
+      }
+    },
+    {
+      "key": "certificateKey",
+      "type": "input",
+      "defaultValue": "",
+      "templateOptions": {
+        "label": "Certificate Key",
+        "type": "password",
+        "placeholder": "477abe9e7d27439681d62f4e0de1f5e1",
+        "required": true
+      }
+    }
+  ]
