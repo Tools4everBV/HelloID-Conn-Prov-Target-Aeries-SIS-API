@@ -35,7 +35,7 @@ https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-ful
 
 2. Fill in the required fields on the 'Configuration' tab. See also, [Setting up the API access](#setting-up-the-api-access)
 
-![image](Assets/config.png)
+![image](Assets/configuration.png)
 * Base URI
 * Certificate Key
 
