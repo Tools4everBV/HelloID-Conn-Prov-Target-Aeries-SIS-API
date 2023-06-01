@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img src="Assets/logo.png">
+  ![Aeries-SIS-logo](https://github.com/Tools4everBV/HelloID-Conn-Prov-Target-Aeries-SIS-API/assets/17279802/f89a869c-af40-436f-8101-5a6ee99fd6fb)
 </p>
 In this example we are going to write back to Aeries via the API, specifically for an email address field on Supplemental Data.
 
